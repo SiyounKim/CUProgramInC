@@ -1,0 +1,2 @@
+Mean is <24.854545>.
+Standard Deviation is <23.801962>.
